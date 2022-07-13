@@ -2,7 +2,7 @@
 
 Sharing the packages and the love from Up Changemakers communities.
 
-## Js : 
+## Js/Typescript : 
 
 - [Config helper](https://github.com/uptoolkit/js-config-helper)
 - [Form helper](https://github.com/uptoolkit/js-form-helper)
