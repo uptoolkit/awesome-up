@@ -24,6 +24,7 @@ Sharing the packages and the love from Up Changemakers communities.
 ## Laravel : 
 
 - [Laravel Boilerplate](https://uptoolkit.github.io/upvue/upback-laravel)
+- [Laravel Documentation](https://laravel.com/docs)
 
 ## Adonis : 
 
