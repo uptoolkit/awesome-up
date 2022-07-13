@@ -8,18 +8,17 @@ Sharing the packages and the love from Up Changemakers communities.
 - [Form helper](https://github.com/uptoolkit/js-form-helper)
 - [Js Tutorials](https://javascript.info/)
 
-## Vue : 
-
-- [UpVue](https://github.com/uptoolkit/upvue/)
-- [Nuxt.js Boilerplate](https://github.com/uptoolkit/upfront-nuxt)
-
-
 ## React : 
 
 - [UpReact](https://github.com/uptoolkit/up-react)
 - [Next.js Boilerplate](https://github.com/uptoolkit/upfront-nextjs)
 - [Next.js Fullstack Boilerplate](https://github.com/uptoolkit/upfull-nextjs)
 - [Typescript React Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+
+## Vue : 
+
+- [UpVue](https://github.com/uptoolkit/upvue/)
+- [Nuxt.js Boilerplate](https://github.com/uptoolkit/upfront-nuxt)
 
 ## Laravel : 
 
