@@ -17,6 +17,7 @@ Sharing the packages and the love from Up Changemakers communities.
 
 - [UpReact](https://uptoolkit.github.io/upvue/up-react)
 - [Next.js Boilerplate](https://uptoolkit.github.io/upvue/upfront-nextjs)
+- [Next.js Fullstack Boilerplate](https://uptoolkit.github.io/upvue/upfull-nextjs)
 
 ## Laravel : 
 
@@ -25,3 +26,11 @@ Sharing the packages and the love from Up Changemakers communities.
 ## Adonis : 
 
 - [Adonis Boilerplate](https://uptoolkit.github.io/upvue/upback-adonis)
+
+## Django : 
+
+- [Adonis Boilerplate](https://uptoolkit.github.io/upvue/upback-adonis)
+
+## Nest.js : 
+
+- [NestJs](https://uptoolkit.github.io/upvue/upback-nest)
